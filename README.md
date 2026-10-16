@@ -22,6 +22,23 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 
 ![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
+## Follow these steps on your Mac
+
+1. Open VLC
+In the top menu bar, click File → Open Network…. You can also try ⌘ Command + N.
+<img width="710" height="453" alt="1" src="https://github.com/user-attachments/assets/310808f0-75b0-4242-8544-e702e52993a5" />
+
+2. Copy and paste this playlist URL
+Official playlist from the repository you shared
+https://iptv-org.github.io/iptv/index.m3u
+Click the URL field, paste the link, and click Open.
+<img width="1152" height="598" alt="2" src="https://github.com/user-attachments/assets/9260c68e-d92f-437b-8b6d-b9b8a7c2ae68" />
+
+3. Choose a channel
+Once the playlist loads, open Window → Playlist if the channel list isn't visible. Double-click a channel to play it.
+<img width="1024" height="481" alt="3" src="https://github.com/user-attachments/assets/315bfd60-9352-4421-9c43-a2f77e221068" />
+
+
 ## Playlists
 
 The main playlist containing all channels available in the repository can be found at:
